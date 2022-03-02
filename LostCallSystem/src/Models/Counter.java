@@ -1,5 +1,6 @@
 package Models;
 public class Counter {
+	//initializing
     public static int processed=0;
     public static int completed=0;
     public static int blocked=0;
